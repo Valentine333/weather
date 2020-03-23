@@ -28,6 +28,11 @@ body {
   margin: 0 auto;
 }
 
+.row{
+  margin-left: -20px;
+  margin-right: -20px;
+}
+
 .info {
   height: 55vh;
   background: url("img/polygon.jpg") center center no-repeat;
